@@ -1,4 +1,4 @@
-![Banner](https://appinventiv.com/wp-content/uploads/2020/11/Role-of-blockchain-in-voting.gif)
+[![MasterHead](https://appinventiv.com/wp-content/uploads/2020/11/Role-of-blockchain-in-voting.gif)
 
 # Progress
 
